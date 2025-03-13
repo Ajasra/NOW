@@ -1,6 +1,6 @@
 # NOW
 
-![NOW Project](img/main.png)
+![NOW Project](img/MAIN.png)
 
 ## Concept
 
