@@ -1,6 +1,6 @@
 # NOW
 
-![NOW Project](img/now.png)
+![NOW Project](img/main.png)
 
 ## Concept
 
@@ -42,3 +42,12 @@ The "NOW" series consists of 17 watches, each representing a unique facet of tim
 16. ...
 17. ...
 
+## License
+
+This project is licensed under the MIT License.
+
+The MIT License is a permissive open source license that allows for reuse, modification, distribution, and private use with minimal restrictions. It only requires that the original copyright notice and permission notice be included in all copies or substantial portions of the software.
+
+---
+
+*NOW Project - Exploring the dimensions of time through digital art and wearable technology*
